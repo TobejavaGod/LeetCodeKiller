@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90b9ebf-eb6c-451f-b45b-b550f01e8b31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ajin/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e90b9ebf-eb6c-451f-b45b-b550f01e8b31" name="Changes" comment="Algorithm : init&#10;&#10;first commit for project init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,8 +43,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673422085012</updated>
-      <workItem from="1673422086942" duration="549000" />
+      <workItem from="1673422086942" duration="949000" />
     </task>
+    <task id="LOCAL-00001" summary="Algorithm : init&#10;&#10;first commit for project init">
+      <created>1673422965892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673422965892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +68,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Algorithm : init&#10;&#10;first commit for project init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm : init&#10;&#10;first commit for project init" />
   </component>
 </project>
